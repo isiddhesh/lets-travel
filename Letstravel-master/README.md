@@ -15,7 +15,3 @@ Admin can:
 * delete existing trips
 
 
-Contributers:
-* [Shivanee Jaiswal](https://github.com/shivaneej)
-* [Vicky Daiya](https://github.com/vickydaiya)
-* [Grusha Dharod](https://github.com/grushad)
